@@ -1,0 +1,12 @@
+﻿<Window x:Class="DS_WPF_Git.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DS_WPF_Git"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Background="#FFB61E1E">
+    <Grid>
+        <Button Name="Button1" Width="300" Height="100" Content="WPF"  HorizontalAlignment="Center" VerticalAlignment="Center" Background="#FF12E225" FontSize="48" ></Button>
+    </Grid>
+</Window>
